@@ -1,6 +1,6 @@
 Git Kullanımı
 
--> git clone <html-link>
+-> git clone html-link
 
 -> Değişiklikleri yap. Sonrasında aşağıdaki işlemleri tamamla.
 
